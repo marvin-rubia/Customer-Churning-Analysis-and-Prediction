@@ -1,1 +1,1 @@
-# Churn-Analysis-Prediction
+# Customer Churning: Analysis and Prediction
