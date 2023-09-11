@@ -1,4 +1,4 @@
-# Customer Churning: Analysis and Prediction
+# Customer Churning: Analysis and Prediction for a Telco Company
 This repository analyzes customer churning data for a Telco company and develops a predictive model that can classify if a customer will probably churn or not.
 
 ## Why analyze customer churn?
