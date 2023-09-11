@@ -1,5 +1,5 @@
 # Customer Churning: Analysis and Prediction for a Telco Company
-This repository analyzes customer churning data for a telecommunication company and develops a predictive model that can classify if a customer will probably churn or not.
+This repository analyzes customer churning data for a telecommunication company and develops a predictive model that can classify whether a customer will probably churn or not.
 
 ## Why analyze customer churn?
 Attracting new customers often costs more than retaining customers. In addition, according to [research](https://media.bain.com/Images/BB_Prescription_cutting_costs.pdf) from Bain & Company, Inc., a 5% increase in customer retention can increase profitability by more than 25%. “Return customers tend to buy more from a company over time. As they do, your operating costs to serve them decline. What’s more, return customers refer others to your company.”
@@ -11,7 +11,7 @@ The source .csv file was downloaded via Kaggle from this [link](https://www.kag
 
 ![image](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/assets/140475770/3afd524b-8376-47fb-b1c2-419668d4b013)
 
-Out of the five models trained for the telecommunication company’s churning dataset, our best model for predicting customer churning is the Gradient Boosting Classifier (learning_rate tuned at 0.1, the rest of the parameters are default). Its ROC-AUC score is 0.842 and its weighted f1-score is 0.780.
+Out of the five models trained for the telecommunication company’s churning dataset, our best model for predicting customer churning is the __Gradient Boosting Classifier__ (learning_rate tuned at 0.1, the rest of the parameters are default). Its ROC-AUC score is 0.842 and its weighted f1-score is 0.780.
 
 ## How to see my work?
 You can check the .ipynb file in this repository. Also, the source .csv file is uploaded here.
