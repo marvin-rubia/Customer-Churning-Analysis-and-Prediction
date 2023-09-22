@@ -38,7 +38,7 @@ D. Other Factors:
 1. __tenure__ (less likely to churn the longer the customer subscribes to the company)
 2. __Contract__ (less likely if 1-year or 2-year contract)
 3. __PaperlessBilling__ (less likely if not paperless)
-4. __PaymentMethod__ (out of the 4 methods, the electronic check method has a higher churning than the other 3 by a significant margin)
+4. __PaymentMethod__ (out of the 4 methods, the electronic check method has a _higher_ churning than the other 3 by a significant margin)
 
 __Conclusion from Predictive Modeling__:
 
