@@ -18,7 +18,7 @@ A. Demographic:
 2. __Partner__ (less likely to churn if with a partner)
 3. __Dependents__ (less likely to churn if with dependent(s)).
    
-B. Offered Services (less likely if subscribed to the following services):
+B. Offered Services (less likely to churn if subscribed to the following services):
 
 1. __InternetService__ (less likely if DSL than Fiber Optic)
 2. __MultipleLines__
