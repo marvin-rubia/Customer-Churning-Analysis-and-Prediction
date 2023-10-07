@@ -47,7 +47,7 @@ __Conclusion from Predictive Modeling__:
 Out of the five models trained for the telecommunication company’s churning dataset, our best model for predicting customer churning is the __Gradient Boosting Classifier__ (learning_rate tuned at 0.1, the rest of the parameters are default). Its ROC-AUC score is 0.842 and its weighted f1-score is 0.780.
 
 ## How to see my work?
-You can check the .ipynb file in this repository. Also, the source .csv file is uploaded here.
+You can check [my Notebook](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/blob/main/Customer_Churning_Analysis_and_Prediction.ipynb) in this repository. Also, the source .csv file is uploaded here.
 
 ## I wrote a blog about this
 You can also check my article: [Customer Churning: Analysis and Prediction for a Telco Company](https://marvinrubia.medium.com/customer-churning-analysis-and-prediction-for-a-telco-company-9c6bbafa34b3). I wrote it for anyone who has an interest in data analysis and machine learning. 
