@@ -51,4 +51,4 @@ Out of the five models trained for the telecommunication company's churning data
 You can check [my Notebook](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/blob/main/Customer_Churning_Analysis_and_Prediction.ipynb) in this repository. Also, the source .csv file is uploaded here.
 
 ## I wrote a blog about this
-You can also check my article: [Customer Churning: Analysis and Prediction for a Telco Company](https://marvinrubia.medium.com/customer-churning-analysis-and-prediction-for-a-telco-company-9c6bbafa34b3). I wrote it for anyone who has an interest in data analysis and machine learning. 
+You can also check my article: [Customer Churning: Analysis and Prediction for a Telco Company in Python](https://marvinrubia.medium.com/customer-churning-analysis-and-prediction-for-a-telco-company-9c6bbafa34b3). I wrote it for anyone who has an interest in data analysis and machine learning. 
