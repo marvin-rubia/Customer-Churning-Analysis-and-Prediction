@@ -10,7 +10,7 @@ The source .csv file was downloaded via Kaggle from this [link](https://www.kag
 ## Conclusion
 __Conclusion from Data Exploration__:
 
-The 16 features that affect customer churning are:
+The 17 features that can help reduce customer churn are:
 
 A. Demographic:
 
@@ -20,18 +20,19 @@ A. Demographic:
    
 B. Offered Services (less likely to churn if subscribed to the following services):
 
-1. __InternetService__ (less likely if DSL than Fiber Optic)
-2. __MultipleLines__
-3. __OnlineSecurity__
-4. __OnlineBackup__
-5. __DeviceProtection__
-6. __TechSupport__
-7. __StreamingTV__
-8. __StreamingMovies__
+1. __PhoneService__
+2. __InternetService__ (less likely if DSL than Fiber Optic)
+3. __MultipleLines__
+4. __OnlineSecurity__
+5. __OnlineBackup__
+6. __DeviceProtection__
+7. __TechSupport__
+8. __StreamingTV__
+9. __StreamingMovies__
 
 C. Monetary:
 
-1. __MonthlyCharges__ (churn rate tends to be high around these monetary units: 20, 45, and 80–100)
+1. __MonthlyCharges__ (churn rate tends to be _high_ around these monetary units: 20, 45, and 80–100)
 
 D. Other Factors:
 
@@ -42,9 +43,9 @@ D. Other Factors:
 
 __Conclusion from Predictive Modeling__:
 
-![image](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/assets/140475770/3afd524b-8376-47fb-b1c2-419668d4b013)
+![image](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/assets/140475770/b875bd0e-c93b-45ff-beee-e3d12b6e6051)
 
-Out of the five models trained for the telecommunication company’s churning dataset, our best model for predicting customer churning is the __Gradient Boosting Classifier__ (learning_rate tuned at 0.1, the rest of the parameters are default). Its ROC-AUC score is 0.842 and its weighted f1-score is 0.780.
+Out of the five models trained for the telecommunication company's churning dataset, our best model for predicting customer churning is __Gradient Boosting Classifier__ (tuned at `learning_rate=0.1`, the rest of the parameters are default). Its ROC-AUC score is 0.843, its weighted f1-score is 0.780, and its accuracy is 0.79.
 
 ## How to see my work?
 You can check [my Notebook](https://github.com/marvin-rubia/Customer-Churning-Analysis-and-Prediction/blob/main/Customer_Churning_Analysis_and_Prediction.ipynb) in this repository. Also, the source .csv file is uploaded here.
