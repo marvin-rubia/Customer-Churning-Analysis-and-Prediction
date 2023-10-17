@@ -10,7 +10,7 @@ The source .csv file was downloaded via Kaggle from this [link](https://www.kag
 ## Conclusion
 __Conclusion from Data Exploration__:
 
-The 17 features that can help reduce customer churn are:
+The 17 features that affect customer churning are:
 
 A. Demographic:
 
